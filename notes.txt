@@ -1,0 +1,4 @@
+multiprocessing notes
+
+concurrency in python uses package:
+multiprocessing
